@@ -40,3 +40,12 @@ Homepage of Netflix:
 A simple website having similar homepage
 that of Netflix using using HTML and
 CSS.
+
+task 1 output 
+![task 1](https://github.com/Harikaran1212/Bharat-Intern/assets/131746803/5e75d20f-bc41-4d22-91e2-ac1693306785)
+
+task 2 output 
+![task 2](https://github.com/Harikaran1212/Bharat-Intern/assets/131746803/cf6299a5-16fc-446e-8d23-ae73b4b27389)
+
+task 3 output
+![task 3](https://github.com/Harikaran1212/Bharat-Intern/assets/131746803/3df8841f-8669-49f6-97d5-1067e2496820)
